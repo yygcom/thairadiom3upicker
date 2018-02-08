@@ -1,0 +1,278 @@
+#EXTM3U
+
+#EXTINF:-1, MCOT_Yasothon
+http://rstream.mcot.net:9052/listen.pls
+
+#EXTINF:-1, MCOT_Yala
+http://rstream.mcot.net:9102/listen.pls
+
+#EXTINF:-1, MCOT_Uttaradit
+http://rstream.mcot.net:9082/listen.pls
+
+#EXTINF:-1, MCOT_Uthai_Thani
+http://rstream.mcot.net:9008/listen.pls
+
+#EXTINF:-1, MCOT_Udon_Thani
+http://rstream.mcot.net:9044/listen.pls
+
+#EXTINF:-1, Voice_of_navy_9_Ubon_Ratchathani
+http://rcp2.plathong.net:9936/listen.pls
+
+#EXTINF:-1, MCOT_Ubon_Ratchathani
+http://rstream.mcot.net:9058/listen.pls
+
+#EXTINF:-1, MCOT_Trat
+http://rstream.mcot.net:9024/listen.pls
+
+#EXTINF:-1, MCOT_Trang
+http://rstream.mcot.net:9092/listen.pls
+
+#EXTINF:-1, Radio_Thailand_Trang
+http://202.129.49.10:8030/listen.pls
+
+#EXTINF:-1, MCOT_Surin
+http://rstream.mcot.net:9056/listen.pls
+
+#EXTINF:-1, MCOT_Surat_Thani
+http://rstream.mcot.net:9090/listen.pls
+
+#EXTINF:-1, Happy_Radio
+http://lnwradio.com:9146/listen.pls
+
+#EXTINF:-1, MCOT_Songkhla
+http://rstream.mcot.net:9104/listen.pls
+
+#EXTINF:-1, MCOT_Sisaket
+http://rstream.mcot.net:9054/listen.pls
+
+#EXTINF:-1, MCOT_Sing_Buri
+http://rstream.mcot.net:9006/listen.pls
+
+#EXTINF:-1, City_Life_93.75_FM
+http://onair.onair.network:8076/listen.pls?sid=1
+
+#EXTINF:-1, MCOT_Satun
+http://rstream.mcot.net:9106/listen.pls
+
+#EXTINF:-1, Voice_of_navy_5_Sattahip_720_AM
+http://rcp2.plathong.net:9918/listen.pls
+
+#EXTINF:-1, Lanna_Radio_Thailand_91.25
+http://media.login.in.th:2000/listen.pls
+
+#EXTINF:-1, MC_RADIO_4
+http://live.smiledj.net:8000/audio
+
+#EXTINF:-1, MCOT_Sakon_Nakhon
+http://rstream.mcot.net:9040/listen.pls
+
+#EXTINF:-1, Love_Radio_93FM_93.0
+http://onair.onair.network:8066/stream
+
+#EXTINF:-1, MCOT_Roi_Et
+http://rstream.mcot.net:9036/listen.pls
+
+#EXTINF:-1, MCOT_Rayong
+http://rstream.mcot.net:9026/listen.pls
+
+#EXTINF:-1, SURF_93.5
+http://112.121.150.133:9626/listen.pls
+
+#EXTINF:-1, CJ_Express
+
+
+#EXTINF:-1, MCOT_Ranong
+http://rstream.mcot.net:9016/listen.pls
+
+#EXTINF:-1, MCOT_Prachuap
+http://rstream.mcot.net:9012/listen.pls
+
+#EXTINF:-1, Radio_Trip_FM_89.75
+http://media.login.in.th:1150/listen.pls?sid=1
+
+#EXTINF:-1, Voice_of_navy_3_Phuket
+http://radio12.plathong.net:7354/listen.pls?sid=1
+
+#EXTINF:-1, Phuket_Gazette_Radio
+http://stream.radio.co/s3bc40eca1/listen
+
+#EXTINF:-1, Sunshine_Radio_2
+http://icecast.piesoft.net:8000/pat128.m3u
+
+#EXTINF:-1, Phuket_Live_Radio_89.5
+http://myradio.plathong.net:8020/listen.pls
+
+#EXTINF:-1, MCOT_Phuket
+http://rstream.mcot.net:9088/listen.pls
+
+#EXTINF:-1, Phuket_FM
+http://148.251.4.92:8000/pfmMP3?type=.flv
+
+#EXTINF:-1, MCOT_Phrae
+http://rstream.mcot.net:9070/listen.pls
+
+#EXTINF:-1, Voice_of_navy_8_Phitsanulok
+http://rcp2.plathong.net:9916/listen.pls
+
+#EXTINF:-1, MCOT_Phitsanulok
+http://rstream.mcot.net:9078/listen.pls
+
+#EXTINF:-1, MCOT_Pichit
+http://rstream.mcot.net:9004/listen.pls
+
+#EXTINF:-1, Radio_Thailand_Phetchabun
+http://prdonline.prd.go.th:8202/listen.pls
+
+#EXTINF:-1, Radio_Thailand_Radio_Thailand_Phetchabun
+http://prdonline.prd.go.th:8212/;stream.mp3
+
+#EXTINF:-1, Modern_Radio_Phayao
+http://122.155.18.152:8022/listen.pls
+
+#EXTINF:-1, MCOT_Phatthalung
+http://rstream.mcot.net:9100/listen.pls
+
+#EXTINF:-1, Voice_of_navy_14_Phang_Nga
+http://rcp2.plathong.net:9932/listen.pls
+
+#EXTINF:-1, MCOT_Phang_Nga
+http://rstream.mcot.net:9086/listen.pls
+
+#EXTINF:-1, Greetz_1025_MHz
+http://radio4.thzhost.com:8510/listen.pls
+
+#EXTINF:-1, PassionFM_Exclusive_Channel_97_Tourist_Station
+http://onair.passionfm.asia:8058/listen.pls
+
+#EXTINF:-1, CityRadio_on_Mobile
+http://onair3.onair.network:8064/listen.pls?sid=1
+
+#EXTINF:-1, Pattaya_Max
+http://streaming.radionomy.com/PattayaMax
+
+#EXTINF:-1, Voice_of_Navy_Pattaya_104.75
+http://myradio.plathong.net:8704/listen.pls
+
+#EXTINF:-1, THAI_RADIO
+http://listen.thai-radio.net/trhq
+
+#EXTINF:-1, Number_One_Radio_103.5
+http://onair.passionfm.asia:8052/listen.pls
+
+#EXTINF:-1, PCN_FM
+http://s1.thailandstreaming.net:8020/listen.pls?sid=1
+
+#EXTINF:-1, City_Radio_Pattaya
+http://onair.onair.network:8074/listen.pls
+
+#EXTINF:-1, Pattaya_People_Radio
+http://s1.thailandstreaming.net:8020/listen.pls?sid=2
+
+#EXTINF:-1, DJ_DOMINATION_REMIX_RADIO
+http://radio1.serv4biz.com:49201/listen.pls?sid=1
+
+#EXTINF:-1, Pattaya_FM_Radio
+http://thai-host.com:8100/pattaya103.ogg.m3u
+
+#EXTINF:-1, People_2000_FM_One
+http://radio14.plathong.net:7038/listen.pls
+
+#EXTINF:-1, MCOT_Pattani
+http://rstream.mcot.net:9098/listen.pls
+
+#EXTINF:-1, fungfungfung.com_easy_listening_radio_Thailand_str
+http://202.129.207.86:8064/listen.pls
+
+#EXTINF:-1, Voice_of_navy_12_Nongkhai_95.75
+http://radio12.plathong.net:9926/listen.pls?sid=1
+
+#EXTINF:-1, MCOT_Sukhothai
+http://rstream.mcot.net:9080/listen.pls
+
+#EXTINF:-1, MCOT_Narathiwat
+http://rstream.mcot.net:9096/listen.pls
+
+#EXTINF:-1, Voice_of_navy_15_Narathiwat_FM_94.75
+http://rcp2.plathong.net:9934/listen.pls
+
+#EXTINF:-1, MCOT_Nan
+http://rstream.mcot.net:9072/listen.pls
+
+#EXTINF:-1, MCOT_Nakhon_Si_Thammarat
+http://rstream.mcot.net:9094/listen.pls
+
+#EXTINF:-1, MCOT_Nakhon_Ratchasima
+http://rstream.mcot.net:9048/listen.pls
+
+#EXTINF:-1, Voice_of_navy_7_Nakhon_Phanom
+http://rcp2.plathong.net:9914/listen.pls
+
+#EXTINF:-1, MCOT_Nakhon_Phanom
+http://reg-stream.mcot.net:1935/RegionRadio/NakhonPhanom.stream_aac/playlist.m3u8
+
+#EXTINF:-1, MCOT_Maha_Sarakham
+http://rstream.mcot.net:9034/listen.pls
+
+#EXTINF:-1, MCOT_Mae_Hong_Son
+http://rstream.mcot.net:9064/listen.pls
+
+#EXTINF:-1, Radio_Thailand_Maehongson
+http://prdonline.prd.go.th:8136/listen.pls
+
+#EXTINF:-1, Khonrakthin_Radio_107.8
+http://radio1.serverradio.net:8180/listen.pls
+
+#EXTINF:-1, MCOT_Loei
+http://rstream.mcot.net:9038/listen.pls
+
+#EXTINF:-1, MCOT_Lang_Suan
+http://rstream.mcot.net:9018/listen.pls
+
+#EXTINF:-1, Doi_Lor_Radio
+http://radio12.plathong.net:7014/listen.pls
+
+#EXTINF:-1, MCOT_Lamphun
+http://rstream.mcot.net:9068/listen.pls
+
+#EXTINF:-1, MCOT_Lampang
+http://rstream.mcot.net:9074/listen.pls
+
+#EXTINF:-1, MCOT_Krabi
+http://rstream.mcot.net:9084/listen.pls
+
+#EXTINF:-1, KKU_Channel_TV_FM
+http://202.28.119.111:1935/live/kkuchannel.sdp/playlist.m3u8
+
+#EXTINF:-1, 880_Radio_Wet
+http://103.13.228.158:8040/listen.pls
+
+#EXTINF:-1, MCOT_Khon_Kaen
+http://rstream.mcot.net:9030/listen.pls
+
+#EXTINF:-1, MCOT_Kanchanaburi
+http://reg-stream.mcot.net:1935/RegionRadio/Kanchanaburi.stream_aac/playlist.m3u8
+
+#EXTINF:-1, MCOT_Kamphaeng_Phet
+http://reg-stream.mcot.net:1935/RegionRadio/KamphaengPhet.stream_aac/playlist.m3u8
+
+#EXTINF:-1, MCOT_Kalasin
+http://rstream.mcot.net:9028/listen.pls
+
+#EXTINF:-1, DJnon_myheartmusic
+http://112.121.150.133:8060/listen.pls
+
+#EXTINF:-1, MCOT_Chumphon
+http://rstream.mcot.net:9014/listen.pls
+
+#EXTINF:-1, FAT93_93.0
+http://112.121.151.133:8272/stream.m3u
+
+#EXTINF:-1, Fisheries_Government_103.0_FM
+http://server1.thairadioservice.com:8704/listen.pls
+
+#EXTINF:-1, Watdoitepnimit
+http://media.login.in.th:5050/listen.pls?sid=1
+
+#EXTINF:-1, MCOT_Chiang_Rai
+http://rstream.mcot.net:9060/listen.pls
+
