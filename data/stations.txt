@@ -4,7 +4,7 @@ http://rstream.mcot.net:9016/;
 http://rstream.mcot.net:9012/;
 http://rstream.mcot.net:9070/;
 http://rstream.mcot.net:9078/;
-http://onair.onair.network:8076/;
+http://onair.onair.network:8076/;?type=http&nocache=81172
 https://listen.thai-radio.net/trhq
 http://rstream.mcot.net:9074/;
 http://rstream.mcot.net:9044/;
