@@ -1,0 +1,17 @@
+http://rstream.mcot.net:9006/;
+http://rstream.mcot.net:9040/;
+http://rstream.mcot.net:9016/;
+http://rstream.mcot.net:9012/;
+http://rstream.mcot.net:9070/;
+http://rstream.mcot.net:9078/;
+http://onair.onair.network:8076/;
+https://listen.thai-radio.net/trhq
+http://rstream.mcot.net:9074/;
+http://rstream.mcot.net:9044/;
+http://rstream.mcot.net:9028/;
+http://rstream.mcot.net:9080/;
+http://rstream.mcot.net:9064/;
+http://rstream.mcot.net:9042/;
+https://lhttp-hw.qtfm.cn/live/1111/64k.mp3
+https://lhttp-hw.qtfm.cn/live/4939/64k.mp3
+https://stream.pjcdn.com:9000/SuksonRadio
