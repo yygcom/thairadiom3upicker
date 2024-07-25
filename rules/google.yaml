@@ -1,5 +1,7 @@
 payload:
 - DOMAIN-SUFFIX,google.com
+- DOMAIN-SUFFIX,google.co.jp
+- DOMAIN-SUFFIX,google.co.th
 - DOMAIN-SUFFIX,googleadservices.com
 - DOMAIN-SUFFIX,googleapis.com
 - DOMAIN-SUFFIX,gstatic.com
