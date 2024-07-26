@@ -1,4 +1,5 @@
 https://lhttp-hw.qtfm.cn/live/4891/64k.mp3
+http://rcp2.plathong.net:9918/;
 http://rstream.mcot.net:9006/;
 http://rstream.mcot.net:9040/;
 http://rstream.mcot.net:9016/;
