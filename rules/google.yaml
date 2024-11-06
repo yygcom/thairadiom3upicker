@@ -8,3 +8,12 @@ payload:
 - DOMAIN-SUFFIX,googletagmanager.com
 - DOMAIN-SUFFIX,google-analytics.com
 - DOMAIN-SUFFIX,googleusercontent.com
+- DOMAIN-SUFFIX,1e100.net
+- DOMAIN-SUFFIX,g.co
+- DOMAIN-SUFFIX,gv2.com
+- DOMAIN-SUFFIX,gv3.com
+- DOMAIN-SUFFIX,android.com
+- DOMAIN-SUFFIX,withgoogle.com
+- DOMAIN-SUFFIX,blogger.com
+- DOMAIN-SUFFIX,waze.com
+- DOMAIN-SUFFIX,gmail.com
